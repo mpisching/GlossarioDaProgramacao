@@ -2,5 +2,5 @@
 <p><b>DTO</b> - <i>Data Transfer Object</i> - é um padrão de projeto utilizado para transporte de dados entre diferentes camadas do sistema.
 <p><b>Flyway</b> - Ferramenta de migração e versionamento de banco de dados (https://flywaydb.org/)
 <p><b>Idempotente</b> - Um método HTTP é idempotente se uma requisição idêntica pode ser feita uma ou mais vezes em sequência com o mesmo efeito enquanto deixa o servidor no mesmo estado. Em outras palavras, um método idempotente não deveria possuir nenhum efeito colateral (exceto para manter estatísticas).
-<p><b>POM</b> - Project Object Model
+<p><b>POM</b> - <i>Project Object Model</i>
 <p><b>REST</b> - Representational State Transfer (REST), em português Transferência Representacional de Estado, é um estilo de arquitetura de software que define um conjunto de restrições a serem usadas para a criação de web services (serviços Web).
